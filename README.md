@@ -7,7 +7,7 @@ Sample dataset:
 ![](SampleDataset.png)
 
 Columns from the Dataset that were used:
-![23.png]
+![](23.png)
 
 Summary statistics of the Dataset:
 
