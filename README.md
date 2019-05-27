@@ -4,7 +4,7 @@ The used dataset can be found on https://www.kaggle.com/danofer/sarcasm.
 
 Sample dataset:
 
-<img src="https://raw.githubusercontent.com/jordanpeshev/RedditSarcasmDetector/master/SampleDataset.png?sanitize=true&raw=true" />
+<img src="https://raw.githubusercontent.com/jordanpeshev/RedditSarcasmDetector/blob/master/SampleDataset.png?sanitize=true&raw=true" />
 
 Summary statistics of the Dataset:
 
