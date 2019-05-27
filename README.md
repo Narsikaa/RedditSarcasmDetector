@@ -8,7 +8,7 @@ Sample dataset:
 
 Summary statistics of the Dataset:
 
-<img src="https://raw.githubusercontent.com/jordanpeshev/RedditSarcasmDetector/master/data.png?sanitize=true&raw=true" />
+<img src="https://raw.githubusercontent.com/jordanpeshev/RedditSarcasmDetector/blob/master/Data.png?sanitize=true&raw=true" />
 
 Uncleaned set of most occuring words:
 
