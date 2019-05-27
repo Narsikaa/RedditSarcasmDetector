@@ -1,3 +1,5 @@
 # RedditSarcasmDetector
-Sarcasm detector using python modules to process a dataset of reddit comments and label them as sarcastic and acclaimed.
+This repository contains a python notebook, that is able to process and predict whether a reddit comment is sarcastic or not.
 The used dataset can be found on https://www.kaggle.com/danofer/sarcasm.
+
+![alt text](https://raw.githubusercontent.com/jordanpeshev/RedditSarcasmDetector/master/SampleDataset.png)
