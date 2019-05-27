@@ -17,3 +17,6 @@ Uncleaned set of most occuring words:
 Top occuring words divided by acclaimed and sarcastic after cleaning:
 
 <img src="https://raw.githubusercontent.com/jordanpeshev/RedditSarcasmDetector/master/MostUsedWordsBoth.png?sanitize=true&raw=true" />
+
+
+<img src="https://cdn.rawgit.com/jordanpeshev/RedditSarcasmDetector/master/SampleDataset.png" />
