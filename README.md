@@ -45,6 +45,8 @@ Paddign will be added to ensure that all the sequences have the same shape.
 
 6. Model will be fitted into the testing data and tested.
 
+RNN performance:
+
 ![](1.png)
 ![](2.png)
 ![](3.png)
