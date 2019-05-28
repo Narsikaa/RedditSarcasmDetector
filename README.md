@@ -50,6 +50,18 @@ Paddign will be added to ensure that all the sequences have the same shape.
 
 RNN performance:
 
-![](1.png)
-![](2.png)
-![](3.png)
+![](RELUBinaryRMS.png)
+
+![](RELUBinaryRMSperf.png)
+
+![](RELUAdamMean.png)
+
+![](RELUAdamMeanPerf.png)
+
+![](RELUBinaryRMS.png)
+
+![](RELUBinaryRMSperf.png)
+
+![](SELUBinaryRMS.png)
+
+![](SELUBinaryRMSPerf.png)
