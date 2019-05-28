@@ -60,10 +60,6 @@ RNN performance:
 
 ![](RELUAdamMeanPerf.PNG)
 
-![](RELUBinaryRMS.PNG)
-
-![](RELUBinaryRMSPerf.PNG)
-
 ![](SELUBinaryRMS.PNG)
 
 ![](SELUBinaryRMSperf.PNG)
