@@ -69,9 +69,15 @@ RNN performance:
 ![](SELUBinaryRMSperf.PNG)
 
 Logistic Regression Performance:
+
 N-gram range: 1,2
+
 Max_features = 50000
+
 Limited-memory BFGS optimization
+
 Inverse of regularization strength: 1
+
 Cut off: 2
-0.7127142542850857
+
+Accuracy ~ 0.71 (0.7127142542850857)
