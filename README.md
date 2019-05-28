@@ -60,9 +60,9 @@ RNN performance:
 
 ![](RELUAdamMeanPerf.PNG)
 
-![](SELUBinaryRMS.PNG)
+![](SeluBinaryRMS.PNG)
 
-![](SELUBinaryRMSperf.PNG)
+![](SeluBinaryRMSperf.PNG)
 
 Logistic Regression Performance:
 
