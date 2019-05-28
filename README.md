@@ -52,7 +52,7 @@ RNN performance:
 
 ![](RELUBinaryRMS.PNG)
 
-![](RELUBinaryRMSperf.PNG)
+![](RELUBinaryRMSPerf.PNG)
 
 ![](RELUAdamMean.PNG)
 
